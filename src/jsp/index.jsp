@@ -4,3 +4,4 @@
     <h1><%=transport.getId()%>
 ...
 ..
+getFullDescription();
