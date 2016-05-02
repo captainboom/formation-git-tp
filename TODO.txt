@@ -3,3 +3,6 @@ Sites à scanner:
 
 Technologies web:
 - JSF
+
+Application lourde:
+- Technologie Swing
